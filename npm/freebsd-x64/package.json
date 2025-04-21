@@ -1,0 +1,18 @@
+{
+  "name": "snozzlebargfd-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "snozzlebargfd.freebsd-x64.node",
+  "files": [
+    "snozzlebargfd.freebsd-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
